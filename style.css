@@ -16,6 +16,7 @@ html {
     height: 11vh;
     justify-content: center;
     align-items: center;
+    font-size: 11%;
 }
 
 .li-navbar {
@@ -25,6 +26,7 @@ html {
     color: white;
     font-size: 30px;
     border-radius: 0px;
+    /* font-size: 4vh; */
 }
 
 .li-navbar:hover {
